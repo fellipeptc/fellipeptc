@@ -10,7 +10,7 @@
 ### Olá, sou **Fellipe Prates** 
 ### Formado em Engenharia da Computação
 
-- 🔭 Trabalho na Floema Nutrição Vegetal
+- 🔭 Trabalho na Quantum Web
 - 🌱 Atualmente aprendendo Flutter & Kotlin
 - 💬 Me pergunte sobre Java, SQL
 - 📫 Email: fellipeptc@hotmail.com
