@@ -10,9 +10,9 @@
 ### Olá, sou **Fellipe Prates** 
 ### Formado em Engenharia da Computação
 
-- 🔭 Trabalho na Quantum Web
-- 🌱 Atualmente aprendendo Flutter & Kotlin
-- 💬 Me pergunte sobre Java, SQL
+- 🔭 Patrocínio/MG
+- 🌱 Atualmente aprendendo Flutter & Dart
+- 💬 Me pergunte sobre Flutter
 - 📫 Email: fellipeptc@hotmail.com
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
