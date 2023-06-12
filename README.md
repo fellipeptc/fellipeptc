@@ -10,9 +10,9 @@
 ### Olá, sou **Fellipe Prates** 
 ### Formado em Engenharia da Computação
 
-- 🔭 Patrocínio/MG
-- 🌱 Atualmente aprendendo Flutter & Dart
-- 💬 Me pergunte sobre Flutter
+- 🔭 De Patrocínio/MG >>> Uberlândia/MG
+- 🌱 Em constante evolução em Flutter(Dart) / Kotlin
+- 💬 Me pergunte algo sobre Flutter
 - 📫 Email: fellipeptc@hotmail.com
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
