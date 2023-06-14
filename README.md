@@ -7,12 +7,13 @@
 
 ##
 
-### Olá, sou **Fellipe Prates** 
-### Formado em Engenharia da Computação
+### Hi guys, i'm **Fellipe Prates** 
+### Degree in Computer Engineering
+### Actually i work with mobile development in Flutter 
 
-- 🔭 De Patrocínio/MG >>> Uberlândia/MG
-- 🌱 Em constante evolução em Flutter(Dart) / Kotlin
-- 💬 Me pergunte algo sobre Flutter
+- 🔭 Living in Uberlândia/MG
+- 🌱 Always developing Flutter(Dart) / Kotlin
+- 💬 Talk me about Fluter / Android
 - 📫 Email: fellipeptc@hotmail.com
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
