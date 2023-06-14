@@ -13,7 +13,7 @@
 
 - 🔭 Living in Uberlândia/MG
 - 🌱 Always developing Flutter(Dart) / Kotlin
-- 💬 Talk me about Fluter / Android
+- 💬 Talk me about Flutter / Android
 - 📫 Email: fellipeptc@hotmail.com
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
